@@ -6,7 +6,7 @@ const myEmitter = new MyEmitter();
 myEmitter.on('waterfull', () => {
   console.log('Turn off the motor!');
   setTimeout(()=>{
-      console.log("pani band karo")
+      console.log("Close The Tap")
   },3000);
 });
 console.log("check1")

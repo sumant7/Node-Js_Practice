@@ -1,7 +1,7 @@
 // function simple(){
 //     console.log("simple is complex");
 // }
-// module.exports = simple;
+// module.exports = simple;             //this how to export common js modules
 
 //es6 module
 export function simple(){
